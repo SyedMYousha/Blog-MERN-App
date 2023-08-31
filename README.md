@@ -35,7 +35,7 @@ This project was developed as part of my learning journey, with inspiration and 
 
 Your feedback and contributions are highly appreciated as I continue to enhance this project. Feel free to explore the codebase and share your thoughts!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/syed-m-yousha-39a30a267/) for further discussions and collaborations.
+Connect with me on [LinkedIn][(https://www.linkedin.com/in/syed-m-yousha-39a30a267/](https://www.linkedin.com/in/syed-m-yousha-39a30a267/)) for further discussions and collaborations.
 
 📧 **Contact:**
 
