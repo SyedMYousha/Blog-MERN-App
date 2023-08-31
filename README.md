@@ -31,7 +31,7 @@ Welcome to the Blog-MERN-App repository! This project showcases a dynamic and fe
 
 🙌 **Acknowledgments:**
 
-This project was developed as part of my learning journey, with inspiration and guidance from the supportive community at [BanoQabil](https://banoqabil.pk). Special thanks to "Sir Basit Hussain" for his insightful teaching and mentorship.
+This project was developed as part of my learning journey, with inspiration and guidance from the supportive community at [BanoQabil](https://banoqabil.pk). Special thanks to **https://github.com/BasitHussain79** for his insightful teaching and mentorship.
 
 Your feedback and contributions are highly appreciated as I continue to enhance this project. Feel free to explore the codebase and share your thoughts!
 
